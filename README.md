@@ -19,4 +19,4 @@ passed in as parameters) is always nice for users too:
 	    nfs_mount_path: "/var/opt/MicroStrategy/shared_cache"
 
 [cosas](../../../$rol/README.md)
-[otrascosas](../../../$rol/README.md) ![#ff0000](PENDING)
+[otrascosas](../../../$rol/README.md) **__(PENDING)__**
